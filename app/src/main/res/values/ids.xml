@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="attr_1"/> //水
+    <item type="id" name="attr_2"/> //火
+    <item type="id" name="attr_3"/> //木
+    <item type="id" name="attr_4"/> //光
+    <item type="id" name="attr_5"/> //暗
+    <item type="id" name="race_1"/> //人
+    <item type="id" name="race_2"/> //龍
+    <item type="id" name="race_3"/> //獸
+    <item type="id" name="race_4"/> //妖
+    <item type="id" name="race_5"/> //神
+    <item type="id" name="race_6"/> //魔
+    <item type="id" name="race_7"/> //機
+    <item type="id" name="race_8"/> //強
+    <item type="id" name="race_9"/> //進
+    <item type="id" name="star_1"/> //1
+    <item type="id" name="star_2"/> //2
+    <item type="id" name="star_3"/> //3
+    <item type="id" name="star_4"/> //4
+    <item type="id" name="star_5"/> //5
+    <item type="id" name="star_6"/> //6
+    <item type="id" name="star_7"/> //7
+    <item type="id" name="star_8"/> //8
+    <item type="id" name="mode_1"/> //連鎖龍紋
+    <item type="id" name="mode_2"/> //轉動龍印
+    <item type="id" name="mode_3"/> //破碎龍咒
+    <item type="id" name="mode_4"/> //映照龍符
+    <item type="id" name="mode_5"/> //疾速龍玉
+    <item type="id" name="mode_6"/> //裂空龍刃
+    <item type="id" name="mode_7"/> //落影龍璃
+    <item type="id" name="mode_8"/> //擴散龍結
+    <item type="id" name="mode_9"/> //鏡像龍丸
+    <item type="id" name="cw_1"/> //無限
+    <item type="id" name="cw_2"/> //主角
+    <item type="id" name="cw_3"/> //龍僕
+    <item type="id" name="cw_4"/> //中國神
+    <item type="id" name="cw_5"/> //命運女神
+    <item type="id" name="cw_6"/> //埃及神
+    <item type="id" name="cw_7"/> //遊俠
+    <item type="id" name="cw_8"/> //中國鋼鐵神獸
+    <item type="id" name="cw_9"/> //人類限定
+    <item type="id" name="cw_10"/> //魔族限定
+
+</resources>

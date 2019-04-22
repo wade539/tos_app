@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20px">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/title_series"
+        android:padding="10dp"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:text="系列"/>
+    <GridView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/gridShow"
+        android:columnWidth="10dp"
+        android:numColumns="4"
+        android:horizontalSpacing="3dp"
+        android:verticalSpacing="3dp"
+        android:stretchMode="columnWidth"
+        android:layout_marginTop="5dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        />
+</LinearLayout>

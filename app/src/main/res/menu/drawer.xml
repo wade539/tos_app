@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_page"
+            android:checked="true"
+            android:title="簡易圖鑑" />
+
+        <item
+            android:id="@+id/active_page"
+            android:title="主動技標籤" />
+
+        <item
+            android:id="@+id/leader_page"
+            android:title="隊長技標籤" />
+
+        <item
+            android:id="@+id/about_page"
+            android:title="關於" />
+    </group>
+    <item android:title="龍刻相關">
+        <menu>
+            <item
+                android:id="@+id/craft_page"
+                android:title="龍刻圖鑑" />
+            <item
+                android:id="@+id/craftw_page"
+                android:title="龍刻武裝" />
+            <item
+                android:id="@+id/craft_tag_page"
+                android:title="龍刻標籤" />ㄏ
+        </menu>
+    </item>
+
+</menu>
